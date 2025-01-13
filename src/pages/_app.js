@@ -6,10 +6,9 @@ import AboutSection from "../components/AboutSection";
 import ContactSection from "../components/ContactSection";
 import Footer from "../components/Footer";
 import '../styles/styles.css';
-import '../components/Calculator.js'
-import { Calculator } from "lucide-react";
+import '../components/Calculator'
 import '../styles/globals.css';
-
+import QuoteCalculator from "../components/Calculator";
 
 
 
@@ -19,7 +18,7 @@ function App() {
             <Nav />
             <HeroSection />
             <ProductDetails />
-            <Calculator/>
+            <QuoteCalculator/>
             <AboutSection />
             <ContactSection />
             <Footer />

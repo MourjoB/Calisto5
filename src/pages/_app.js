@@ -9,6 +9,7 @@ import '../styles/styles.css';
 import '../components/Calculator'
 import '../styles/globals.css';
 import QuoteCalculator from "../components/Calculator";
+import '../components/ProductDetails.css'
 
 
 

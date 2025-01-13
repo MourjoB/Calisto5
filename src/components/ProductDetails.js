@@ -1,7 +1,6 @@
 "use client";
 import React, { useState } from "react";
 import { ChevronLeft, ChevronRight } from "lucide-react";
-import "./ProductDetails.css";
 
 const ProductCarousel = () => {
   const [currentIndex, setCurrentIndex] = useState(0);

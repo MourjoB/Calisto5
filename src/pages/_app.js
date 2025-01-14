@@ -18,8 +18,8 @@ function App() {
         <div className="App">
             <Nav />
             <HeroSection />
-            <ProductDetails />
             <QuoteCalculator/>
+            <ProductDetails />
             <AboutSection />
             <ContactSection />
             <Footer />

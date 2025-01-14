@@ -45,7 +45,7 @@ const ContactForm = () => {
 
   return (
     <section className="relative min-h-screen bg-gradient-to-br from-[#fff5e6] to-[#ffe4cc] flex items-center justify-center">
-      <div className="relative w-full max-w-5xl p-6 perspective">
+      <div id="contact" className="relative w-full max-w-5xl p-6 perspective">
         <div
           className="contact-card relative bg-white rounded-3xl shadow-2xl overflow-hidden transition-transform duration-300 transform-gpu"
           style={{
